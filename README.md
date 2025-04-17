@@ -1,5 +1,5 @@
-# wio-terminal-WIFI-clock
-wio terminal is developed as a networked real-time clock
+# wio-terminal-WIFI-clock (基于Seeed的wio terminal)
+# wio terminal is developed as a networked real-time clock
 
 在arduino上安装一些库就可以开始
 	启动 Arduino 应用程序
